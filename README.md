@@ -1,16 +1,4 @@
-# projeto_dado_flutter
+A fins de estudo, o projeto tem finalidade de explorar os conceitos do StatefulWidget, StatelessWidget, TextButton e a biblioteca Math do dart.
+A ideia é ter dois dados centralizados na tela, e ao clicar neles o valor que é mostrado no dado é trocado aleatóriamente.
+![image](https://github.com/user-attachments/assets/faed4c3a-0ade-4355-86cc-9bf9fcd35955)
 
-projeto_dado_flutter
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
